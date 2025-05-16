@@ -1,0 +1,1 @@
+/usr/local/bin/sse strm_7_sm_3_covmodel_17.mod -samples=200
